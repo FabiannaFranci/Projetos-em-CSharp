@@ -11,6 +11,7 @@
 - C# 
 - Visual Studio Code
 - .Net
+-GitHub Desktop
 
 #### Pré-requisitos de instalação
 Execução da aplicação
