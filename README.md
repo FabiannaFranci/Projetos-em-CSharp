@@ -13,7 +13,7 @@
 - .Net
 -GitHub Desktop
 
-#### Pré-requisitos de instalação
+#### Execução da aplicação
 Execução da aplicação
 Clonar o repositório, abrir o projeto com o VSCode
 Para executar a aplicação, abre-se o terminal e rode o seguinte comando: dotnet run
