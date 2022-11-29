@@ -1,7 +1,7 @@
 # Projeto Conta em Banco
 
 #### Funcionalidades
-- Vizualização da conta
+- Visualização da conta
 - Depósitar dinheiro na conta
 - Sacar dinheiro da conta
 - Pagar Mensalidade
